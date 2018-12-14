@@ -194,7 +194,7 @@ class SnubaSearchBackend(ds.DjangoSearchBackend):
 
         # Additional filtering conditions for data that doesn't exist in snuba.
         group_queryset = ds.QuerySetBuilder({
-            'linked_ticket': CallbackCondition(
+            'linked_ticket': ds.CallbackCondition(
                 lambda queryset, linked: (queryset.filter if linked else queryset.exclude)(
                     id__in=GroupLink.objects.filter(
                         linked_type=GroupLink.LinkedType.issue
