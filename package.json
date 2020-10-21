@@ -83,7 +83,7 @@
     "scroll-to-element": "^2.0.0",
     "sentry-dreamy-components": "^1.0.0",
     "sprintf-js": "1.0.3",
-    "style-loader": "0.12.4",
+    "style-loader": "0.23.1",
     "svg-sprite-loader": "^3.4.1",
     "svgo": "^1.1.0",
     "svgo-loader": "^2.1.0",
