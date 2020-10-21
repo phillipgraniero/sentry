@@ -508,6 +508,64 @@ patch:
         patched: '2020-10-21T19:54:21.008Z'
     - babel-preset-latest > babel-preset-es2015 > babel-plugin-transform-es2015-modules-umd > babel-plugin-transform-es2015-modules-amd > babel-plugin-transform-es2015-modules-commonjs > babel-template > babel-traverse > babel-types > lodash:
         patched: '2020-10-21T19:54:21.008Z'
+    - babel-plugin-emotion > babel-core > lodash:
+        patched: '2020-10-21T20:19:09.798Z'
+    - babel-plugin-emotion > babel-core > babel-types > lodash:
+        patched: '2020-10-21T20:19:09.798Z'
+    - babel-plugin-emotion > babel-core > babel-generator > lodash:
+        patched: '2020-10-21T20:19:09.798Z'
+    - babel-plugin-emotion > babel-core > babel-traverse > lodash:
+        patched: '2020-10-21T20:19:09.798Z'
+    - babel-plugin-emotion > babel-core > babel-template > lodash:
+        patched: '2020-10-21T20:19:09.798Z'
+    - babel-plugin-emotion > babel-core > babel-register > lodash:
+        patched: '2020-10-21T20:19:09.798Z'
+    - babel-plugin-emotion > babel-core > babel-generator > babel-types > lodash:
+        patched: '2020-10-21T20:19:09.798Z'
+    - babel-plugin-emotion > babel-core > babel-traverse > babel-types > lodash:
+        patched: '2020-10-21T20:19:09.798Z'
+    - babel-plugin-emotion > babel-core > babel-template > babel-types > lodash:
+        patched: '2020-10-21T20:19:09.798Z'
+    - babel-plugin-emotion > babel-core > babel-template > babel-traverse > lodash:
+        patched: '2020-10-21T20:19:09.798Z'
+    - babel-plugin-emotion > babel-core > babel-helpers > babel-template > lodash:
+        patched: '2020-10-21T20:19:09.798Z'
+    - babel-plugin-emotion > babel-core > babel-register > babel-core > lodash:
+        patched: '2020-10-21T20:19:09.798Z'
+    - babel-plugin-emotion > babel-core > babel-template > babel-traverse > babel-types > lodash:
+        patched: '2020-10-21T20:19:09.798Z'
+    - babel-plugin-emotion > babel-core > babel-helpers > babel-template > babel-types > lodash:
+        patched: '2020-10-21T20:19:09.798Z'
+    - babel-plugin-emotion > babel-core > babel-register > babel-core > babel-types > lodash:
+        patched: '2020-10-21T20:19:09.798Z'
+    - babel-plugin-emotion > babel-core > babel-register > babel-core > babel-generator > lodash:
+        patched: '2020-10-21T20:19:09.798Z'
+    - babel-plugin-emotion > babel-core > babel-helpers > babel-template > babel-traverse > lodash:
+        patched: '2020-10-21T20:19:09.798Z'
+    - babel-plugin-emotion > babel-core > babel-register > babel-core > babel-traverse > lodash:
+        patched: '2020-10-21T20:19:09.798Z'
+    - babel-plugin-emotion > babel-core > babel-register > babel-core > babel-template > lodash:
+        patched: '2020-10-21T20:19:09.798Z'
+    - babel-plugin-emotion > babel-core > babel-register > babel-core > babel-generator > babel-types > lodash:
+        patched: '2020-10-21T20:19:09.798Z'
+    - babel-plugin-emotion > babel-core > babel-helpers > babel-template > babel-traverse > babel-types > lodash:
+        patched: '2020-10-21T20:19:09.798Z'
+    - babel-plugin-emotion > babel-core > babel-register > babel-core > babel-traverse > babel-types > lodash:
+        patched: '2020-10-21T20:19:09.798Z'
+    - babel-plugin-emotion > babel-core > babel-register > babel-core > babel-template > babel-types > lodash:
+        patched: '2020-10-21T20:19:09.798Z'
+    - babel-plugin-emotion > babel-core > babel-register > babel-core > babel-template > babel-traverse > lodash:
+        patched: '2020-10-21T20:19:09.798Z'
+    - babel-plugin-emotion > babel-core > babel-register > babel-core > babel-helpers > babel-template > lodash:
+        patched: '2020-10-21T20:19:09.798Z'
+    - babel-plugin-emotion > babel-core > babel-register > babel-core > babel-template > babel-traverse > babel-types > lodash:
+        patched: '2020-10-21T20:19:09.798Z'
+    - babel-plugin-emotion > babel-core > babel-register > babel-core > babel-helpers > babel-template > babel-types > lodash:
+        patched: '2020-10-21T20:19:09.798Z'
+    - babel-plugin-emotion > babel-core > babel-register > babel-core > babel-helpers > babel-template > babel-traverse > lodash:
+        patched: '2020-10-21T20:19:09.798Z'
+    - babel-plugin-emotion > babel-core > babel-register > babel-core > babel-helpers > babel-template > babel-traverse > babel-types > lodash:
+        patched: '2020-10-21T20:19:09.798Z'
   'npm:moment:20160126':
     - moment-timezone > moment:
         patched: '2020-10-21T19:54:21.008Z'
